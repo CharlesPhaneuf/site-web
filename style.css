@@ -88,6 +88,7 @@ header {
 
 .about p {
     font-size: 18px;
+    padding: 15px;
 }
 
 footer {
@@ -96,4 +97,57 @@ footer {
     text-align: center;
     padding: 20px 0;
     margin-top: 40px;
+}
+
+.terms{
+    padding: 200px;
+    text-align: center;
+    background-color: #595757;
+    margin: auto;
+}
+
+.terms h3 {
+    font-size: 36px;
+    margin-bottom: 20px;
+    color: rgb(154, 153, 153);
+}
+
+.terms p {
+    font-size: 18px;
+}
+
+.button {
+  padding: 10px 20px;
+  font-size: 15px;
+  color: rgb(154, 153, 153);
+  background-color: #282828;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+.button:hover {
+  background-color: #3f3f3f;
+}
+
+.input {
+  width: 100%;
+  max-width: 400px;
+  padding: 10px 0;
+  font-size: 16px;
+  border: none;
+  border-bottom: 2px solid #797979;
+  outline: none;
+}
+
+.input:focus {
+  border-bottom-color: #555555;
+}
+
+.logo h1{
+    background-color: rgba(57, 57, 57, 0.609);
+    border-radius: 10px;
+    padding: 10px 20px;
+    text-align: center;
 }

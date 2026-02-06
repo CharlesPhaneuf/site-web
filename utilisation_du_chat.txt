@@ -1,0 +1,1 @@
+J’ai utilisé ChatGPT pour les définitions et pour la façon d’implémenter mon idée (il m’a suggéré de le faire avec un fichier JSON).
